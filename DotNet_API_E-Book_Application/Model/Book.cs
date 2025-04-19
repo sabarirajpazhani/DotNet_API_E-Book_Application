@@ -6,6 +6,7 @@ namespace DotNet_API_E_Book_Application.Model
     {
         [Key]
         public int Id { get; set; }
+        [Required]
         public String Title { get; set; }
         public String Author { get; set; }
         public String Description { get; set; }
