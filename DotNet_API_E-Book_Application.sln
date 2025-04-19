@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotNet_API_E-Book_Application", "DotNet_API_E-Book_Application\DotNet_API_E-Book_Application.csproj", "{0A34611C-4981-4623-9BC8-78FF70F2F09F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0A34611C-4981-4623-9BC8-78FF70F2F09F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A34611C-4981-4623-9BC8-78FF70F2F09F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A34611C-4981-4623-9BC8-78FF70F2F09F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A34611C-4981-4623-9BC8-78FF70F2F09F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {65D36AAB-8896-4866-A402-7208E15F0CE6}
+	EndGlobalSection
+EndGlobal
